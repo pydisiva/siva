@@ -1,1 +1,6 @@
-hi this is my first git txt file this is siva
+1)hi this is my first git txt file this is siva developer 2 done changes 
+
+2)developer 2 done 
+
+3) delete
+
